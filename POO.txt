@@ -1,0 +1,23 @@
+Elementos de la POO:
+
+    Clases: Con estas modulamos  a los objetos, habitandoles las acciones que podran realizar y los atributos de los que dispondrá.
+
+    Métodos: Son la acciones que se encuentran definidas dentro de una clase.
+
+    Atributos: Son las viables con las que cuentan las clases.
+
+    Objetos: Son intancias particulares de cada una de las clases, podemos tener varios objetos que pertenezcan a una clase, con las mismas acciones y con atributos diferentes.
+
+
+VARIBLES
+
+    variable locales: Tiene el ambito local y se reconocen ya que van en minusculas, acompañadas de una barra baja en el caso de que se trate de un nombre compuesto.
+
+        cliente, numero_dni, segundo_apellido
+    variables globales: tienen un ambito global y van acompañadas de un signo $. Y al igual que las locales van en minusculas y con una barra baja en los nombre compuestos.
+
+        $client, $numero_dni, $segundo_apellido
+    Constantes: Es un tipo de variable cuyo valor es inmutable a lo largo de todo el programa. se escriben en mayusculas y recibiremos una advertencia por parte de Ruby, si cambiamos su contenido.
+
+        CLIENTE, NUMERO, DATOS
+
